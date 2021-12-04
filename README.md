@@ -1,6 +1,6 @@
 # Homework1
 Homework Assigment - Banking 
-Submitted by: Maria Pisnetz 313087744
+Submitted by: Maria Pisnetz 
 Homework in Java: Banking Exercise
 
 IBANK
